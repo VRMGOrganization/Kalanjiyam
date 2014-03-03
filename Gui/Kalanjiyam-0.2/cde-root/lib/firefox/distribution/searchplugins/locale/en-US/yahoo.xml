@@ -1,0 +1,18 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Yahoo</ShortName>
+<Description>Yahoo Search</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAbgJqAIoCdgCaAnoAnhKCAKYijgCuLpIAskKeALpSpgC+Yq4AzHy8ANqezgDmvt4A7tLqAPz5+wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKlRFIoABWAKERERE6ADcKMzzu2hOgAAhERK8REWCWBERE36ERMHMEREvo6iEgY6hEn6Pu0mAzqkz/xjMzoDNwpERERDoAMzAKlERIoAAzMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAA//8AAP//AADAOQAAgBkAAAAPAAAACQAAAAkAAAAIAAAACAAAAAgAAIAYAADAOAAA//8AAP//AAD//wAA</Image>
+<Url type="application/x-suggestions+json" method="GET"
+     template="http://ff.search.yahoo.com/gossip?output=fxjson&amp;command={searchTerms}" />
+<Url type="text/html" method="GET" template="http://us.yhs4.search.yahoo.com/yhs/search">
+  <Param name="p" value="{searchTerms}"/>
+  <Param name="fr" value="sfp"/>
+  <Param name="fr2" value=""/>
+  <Param name="type" value="__alt__ddc_linuxmint_com"/>
+  <Param name="hspart" value="ddc"/>
+  <Param name="hsimp" value="yhs-linuxmint"/>
+  <Param name="iscqry" value=""/>
+</Url>
+<SearchForm>http://us.yhs4.search.yahoo.com/web/partner?&amp;hspart=ddc&amp;hsimp=yhs-linuxmint&amp;type=__alt__ddc_linuxmint_com</SearchForm>
+</SearchPlugin>

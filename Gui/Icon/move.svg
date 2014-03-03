@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20"
+   height="20"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="move.svg"
+   inkscape:export-filename="/home/ssg21/Desktop/22x22/eraser.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-4.2179976 : 10.534116 : 1"
+       inkscape:vp_y="0 : -425.44543 : 0"
+       inkscape:vp_z="16.122716 : 10.534116 : 1"
+       inkscape:persp3d-origin="5.9523589 : 12.094083 : 1"
+       id="perspective4148" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="26.6"
+     inkscape:cx="10"
+     inkscape:cy="10"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1032.3622)">
+    <g
+       id="g2988"
+       transform="matrix(0.94987455,0,0,0.95430303,0.398335,47.599288)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.40540695;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3059"
+         width="2.122339"
+         height="9.7897577"
+         x="-605.9765"
+         y="842.89313"
+         transform="matrix(0.80368717,-0.59505204,0.58797724,0.80887747,0,0)" />
+      <g
+         transform="matrix(0.91847628,0,0,0.95871256,0.60699127,42.473958)"
+         id="g3001">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3061"
+           d="m 4.3220991,1034.5174 1.152871,14.574 0.240641,-0.175 5.0865179,-4.7613 6.237512,-3.3659 0.0344,-0.025 -12.7519178,-6.2467 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.45315409;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.06132885;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           d="m 4.3220991,1034.5174 1.152871,14.574 0.240641,-0.175 5.0865179,-4.7613 6.237512,-3.3659 0.0344,-0.025 -12.7519178,-6.2467 z"
+           id="path4216"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         transform="matrix(0.80452208,-0.59392274,0.5891074,0.80805474,0,0)"
+         y="843.22827"
+         x="-607.24744"
+         height="10.644743"
+         width="2.3097289"
+         id="rect4236"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0654159;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+  </g>
+</svg>

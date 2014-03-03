@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Kalanjiyam
+GenericName=StoryBoard Editor
+Version=0.2
+Type=Application
+Comment=StoryBoard Writing, Viewing, Printing
+Exec=/usr/share/applications/Kalanjiyam/Gui/Kalanjiyam-0.2/./RunKalanjiyam
+Icon=/usr/share/applications/Kalanjiyam/Gui/Icon/kalanjiyam_logo.png
+Type=Application
+Categories=GNOME;GTK;Applications;
+Terminal=false
+StartupNotify=true
+MimeType=application/x-kalanjiyam;

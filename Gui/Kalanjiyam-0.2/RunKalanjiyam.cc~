@@ -1,0 +1,28 @@
+#include <iostream>  
+#include <fstream>
+#include <sys/types.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+
+int main(int argc, char* argv[])
+{
+//system("sudo apt-get install libgoocanvasmm-1.0-5");
+//system("sudo apt-get install imagemagick");
+//system("sudo apt-get install libmagick++-dev");
+  std::string copy_syntax = "/usr/share/applications/Kalanjiyam/Gui/Kalanjiyam-0.2/./cde-exec /usr/share/applications/Kalanjiyam/Gui/Kalanjiyam-0.2/./Kalanjiyam";
+  //std::string copy_syntax1 = "/usr/share/applications/Kalanjiyam/Gui/Kalanjiyam-0.2/./Kalanjiyam";
+  try
+  {
+    if(system(copy_syntax.c_str())!=0)
+    {
+    throw 1;
+    }
+  }
+  catch(int e)
+  {
+  std::cout<<"Unable to Execute\n";
+  }	 
+ return 0;
+}
